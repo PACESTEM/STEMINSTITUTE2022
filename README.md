@@ -1,5 +1,3 @@
-WARNING - NOT UPDATED YET - Material of 2021
-
 # STEM INSTITUTE 2022
 
 ![logostem2020](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/logostem2020.png)
@@ -14,16 +12,15 @@ WARNING - NOT UPDATED YET - Material of 2021
 
 ## Schedule 
 
-* [Schedule](https://docs.google.com/spreadsheets/d/1kHmLyc1-RH9oxfu6BGAC30INr6PgUHkF_F-VcsyqkIA/edit?usp=sharing)
-* Calendars
-  * [Group A with Dr. Parisi](https://calendar.google.com/calendar/render?cid=u8avjdjnnk9ja2jsam73g1826o@group.calendar.google.com)
-  * [Group B with Dr. Scharff, Kaleema and Krishna](https://calendar.google.com/calendar/render?cid=fovnnnnid479p81rdrvn86ai4c@group.calendar.google.com)
+* [Schedule](https://docs.google.com/spreadsheets/d/1xVWEArEMVDTkQFv8RsUNJ5qykVZ5uiKN1G9RHWQTw9Y/edit?usp=sharing)
+* [Calendar](TBD)
   
 ## Staff
 
-* [Staff & Speakers directory](https://docs.google.com/presentation/d/1Fa89qLjVgeeZ0RhULAfx9kNfVDj-v43euFdgOtjZ0pU/edit?usp=sharing)
-* Dr. Parisi, Dr. Scharff, Prof. Kaleema Lnu, Prof. Krishna Bathula
-* Thanks to our wonderful mentors: Sunanda Singareddy, Yadhavi Rao, Yashraj Bhandare, Shubbham Trivedi
+* [Staff & Speakers directory](https://docs.google.com/presentation/d/1SfyqaGq-MFzXVbHx08kAo840Q2yhZxeG-zby8BgLba4/edit?usp=sharing)
+* **Instructors:** Dr. Parisi, Dr. Guida, Dr. Scharff, Prof. Kaleema
+* **Staff:** Melanie Madera, Jackie Wong
+* **Mentors:** Aigerim Mansurova, Begimai Zhumakova, Lauren DeMaio, Manu Bhardwaj, Rohith Uppula 
 
 ## Learning outcomes
 
@@ -44,8 +41,8 @@ WARNING - NOT UPDATED YET - Material of 2021
 ## Tools
 
 * Instruction - [Zoom](https://docs.google.com/document/d/1EA4UlzNcHmqNC3RdYXvN3N4loJauZpHhSJ5to0Iym4M/edit?usp=sharing)
-* Communication - [Slack](https://pacestem2021.slack.com)
-* Documentation - GitHub
+* Communication - [Discord](https://discord.com)
+* Documentation and material - GitHub
 * Exploration of the data - Excel, Python
 * Code - Python, [Google Colab](https://colab.research.google.com), GitHub
 * Design thinking - Miro
@@ -55,7 +52,7 @@ WARNING - NOT UPDATED YET - Material of 2021
 
 Please note that the slides are in a Google Colab notebook.
 
-* [Slides](https://colab.research.google.com/drive/14mo3BM9nqwnhPEE-tZf7ZcGT4lrt1g0L?usp=sharing)
+* [Slides](https://drive.google.com/file/d/1mEtjMZQOZlgPh1tjct76wlsucO-RbmQW/view?usp=sharing)
 * [Linear regression](https://colab.research.google.com/drive/1ENV1wA59wjmOFhutnkFT_-aQNddbLCVy?usp=sharing)
 * Practicing Python
   * [Practice 1](https://drive.google.com/file/d/1OaMLjPJv9Tz3RsO1TtWIjqR5Yrd36Oz9/view?usp=sharing)
@@ -66,17 +63,15 @@ Please note that the slides are in a Google Colab notebook.
 * Ice breaker
 * [Data Visualization](https://docs.google.com/presentation/d/1jf5dnhHe3aDcaNdfqTdr9WaW37MJqwe5J3oEfeoCzQY/edit?usp=sharing)
 * [Design Thinking](https://drive.google.com/file/d/1DXxFMXPoggqbXXGSmgenH_RP4ALcWssD/view?usp=sharing)
-* Storytelling
+* [Storytelling](https://github.com/PACESTEM/STEMINSTITUTE2022/blob/main/STORYTELLING.pdf)
 
 ## Invited talks
 
-* Agata Poniatowski, Education Outreach Coordinator at the Billion Oyster Project. 
-* Dr. Stephen Gosnell, Assistant Professor, Department of Natural Sciences, Baruch College & Graduate Center, CUNY. [Slides](https://docs.google.com/presentation/d/1VgxACi-QstRGp69tOH3nE2IYxD9VORvtUe0Lz_yGvhU/edit?usp=sharing)
+* Scientist: Dr. Stephen Gosnell, Assistant Professor, Department of Natural Sciences, Baruch College & Graduate Center, CUNY
 * Panel with AppFigures - Ariel Michaeli, Co-Founder, Oz Michaeli, Co-Founder & Head of Product, Alex Quick, Head of Engineering, Joshua Vernazza, Head of Data Science
-* Google - Josh Gordon, Developer Advocate, will show fun examples of deep learning applications
-* Seidenberg students' panel - Angela Bonsol (2021), Vivian Ng (2020), Vicente Gomez (2021)
-* Keynotes - James McCabe, Google Customer Success Manager and Keithe Bennet, Google Technical Operations Manager
-
+* One Day in the Life of a Data Scientist: Tassos Sarbanes (Financial Industry)
+* Seidenberg students' panel - TBD 
+* Keynote - TBD
 
 ## Data
 
@@ -137,31 +132,39 @@ Presentations, code, murals etc.
 *Please note that some of the links require access.*
 
 * Team 1
-    - [MIRO](https://miro.com/app/board/o9J_l76GeJk=/)
-    - [Presentation](https://drive.google.com/file/d/19CV_XDHzk0ciSFZ67WwEbIhVXQ_DeP1r/view?usp=sharing)
+    - [MIRO]()
+    - [Presentation]()
+    - [Video]()
 * Team 2
-    - [MIRO](https://miro.com/app/board/o9J_l76bvd0=/)
-    - [Presentation](https://drive.google.com/file/d/1NpvuXseTlC-zG19iEsVZ1RaC_Dd20NMh/view?usp=sharing)
+    - [MIRO]()
+    - [Presentation]()
+    - [Video]()
 * Team 3
-     - [MIRO](https://miro.com/app/board/o9J_l76bvYM=/)
-    - [Presentation](https://drive.google.com/file/d/1ajo3_7w3-7SPN6JBWzSvNtLXVJdHELuM/view?usp=sharing)
+    - [MIRO]()
+    - [Presentation]()
+    - [Video]()
 * Team 4
-    - [MIRO](https://miro.com/app/board/o9J_l76bvZo=/)
-    - [Presentation](https://drive.google.com/file/d/1Q1HM_D65dntChX3XrjcmF7KhgCiJ4K0A/view?usp=sharing)
+    - [MIRO]()
+    - [Presentation]()
+    - [Video]()
 * Team 5
-    - [MIRO](https://miro.com/app/board/o9J_l76bva0=/)
-    - [Presentation](https://drive.google.com/file/d/1RrshB-O_XSIMu9UHyu5cwgvAcTdfBbKZ/view?usp=sharing)
+    - [MIRO]()
+    - [Presentation]()
+    - [Video]()
 * Team 6
-    - [MIRO](https://miro.com/app/board/o9J_l76bvbA=/)
-    - [Presentation](https://drive.google.com/file/d/1iXyX4wLYblMFEQ3gsdw0f7hWjS9wYKjC/view?usp=sharing)
+    - [MIRO]()
+    - [Presentation]()
+    - [Video]()
 * Team 7
-    - [MIRO](https://miro.com/app/board/o9J_l76bvbg=/)
-    - [Presentation](https://drive.google.com/file/d/1Z7EDAzljSafYGx6FiAcE3hRJdBLB9RCq/view?usp=sharing)
+    - [MIRO]()
+    - [Presentation]()
+    - [Video]()
 * Team 8
-    - [MIRO](https://miro.com/app/board/o9J_l75nSVg=/)
-    - [Presentation](https://drive.google.com/file/d/1XYm6QATTkm7sIhJUPDSfhPiYMNhVkC1T/view?usp=sharing)
-
+    - [MIRO]()
+    - [Presentation]()
+    - [Video]()
+    
 ## Ceremony
 
-* [Summary presentation](https://docs.google.com/presentation/d/1QLYozHD5firVtWFXjRdoMNFaQRQzpLZsf9bQSpK5n8c/edit?usp=sharing)
-* [Videos](https://drive.google.com/file/d/1v1b5rc-kLkB1x6izX4PXX-6BjBzNGlut/view?usp=sharing )
+* [Summary presentation](TBD)
+* [Videos](TBD)
