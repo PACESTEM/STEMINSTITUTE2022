@@ -13,7 +13,6 @@
 ## Schedule 
 
 * [Schedule](https://docs.google.com/spreadsheets/d/1xVWEArEMVDTkQFv8RsUNJ5qykVZ5uiKN1G9RHWQTw9Y/edit?usp=sharing)
-* [Calendar](TBD)
   
 ## Staff
 
@@ -45,15 +44,15 @@
 * Documentation and material - GitHub
 * Exploration of the data - Excel, Python
 * Code - Python, [Google Colab](https://colab.research.google.com), GitHub
-* Design thinking - Miro
 * Presentations - Google Docs
 
 ## Slides
 
-Please note that the slides are in a Google Colab notebook.
-
 * [Slides / Google Colab](https://drive.google.com/file/d/1mEtjMZQOZlgPh1tjct76wlsucO-RbmQW/view?usp=sharing)
 * [Research by Pace UG students](https://docs.google.com/forms/d/e/1FAIpQLSelXNn9wL9xgDM3BTHzuFMFV5RkH48yqMV6nnrpxotE7n_hFQ/viewform)
+
+**Other material**
+
 * [Linear regression](https://colab.research.google.com/drive/1ENV1wA59wjmOFhutnkFT_-aQNddbLCVy?usp=sharing)
 * Practicing Python
   * [Practice 1](https://drive.google.com/file/d/1OaMLjPJv9Tz3RsO1TtWIjqR5Yrd36Oz9/view?usp=sharing)
@@ -68,7 +67,8 @@ Please note that the slides are in a Google Colab notebook.
 
 ## Invited talks
 
-* Scientist: Dr. Stephen Gosnell, Assistant Professor, Department of Natural Sciences, Baruch College & Graduate Center, CUNY
+* Ask a scientist: Dr. Stephen Gosnell, Assistant Professor, Department of Natural Sciences, Baruch College & Graduate Center, CUNY
+* BOP 101: Agata Poniatowski, Outreach and Engagement Manager, Billion Oyster Project
 * Panel with AppFigures - Ariel Michaeli, Co-Founder, Oz Michaeli, Co-Founder & Head of Product, Alex Quick, Head of Engineering, Joshua Vernazza, Head of Data Science
 * One Day in the Life of a Data Scientist: Tassos Sarbanes (Financial Industry)
 * Seidenberg students' panel - TBD 
