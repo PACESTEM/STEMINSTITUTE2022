@@ -48,11 +48,12 @@
 * Design thinking - Miro
 * Presentations - Google Docs
 
-## Data science slides
+## Slides
 
 Please note that the slides are in a Google Colab notebook.
 
-* [Slides](https://drive.google.com/file/d/1mEtjMZQOZlgPh1tjct76wlsucO-RbmQW/view?usp=sharing)
+* [Slides / Google Colab](https://drive.google.com/file/d/1mEtjMZQOZlgPh1tjct76wlsucO-RbmQW/view?usp=sharing)
+* [Research by Pace UG students](https://docs.google.com/forms/d/e/1FAIpQLSelXNn9wL9xgDM3BTHzuFMFV5RkH48yqMV6nnrpxotE7n_hFQ/viewform)
 * [Linear regression](https://colab.research.google.com/drive/1ENV1wA59wjmOFhutnkFT_-aQNddbLCVy?usp=sharing)
 * Practicing Python
   * [Practice 1](https://drive.google.com/file/d/1OaMLjPJv9Tz3RsO1TtWIjqR5Yrd36Oz9/view?usp=sharing)
