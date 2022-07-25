@@ -2,7 +2,7 @@
 
 ![logostem2020](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/logostem2020.png)
 
-*This material is based upon work supported by the National Science Foundation under NSF EHR DRL. 1839656/PI Lauren Birney. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.*
+*This material is based upon work supported by the National Science Foundation under NSF EHR DRL. 1839656/PI Birney. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.*
 
 ![](https://github.com/PACESTEM/STEMINSTITUTE2020/blob/main/nsf.png)
 
@@ -49,7 +49,8 @@
 ## Slides
 
 * [Slides / Google Colab](https://drive.google.com/file/d/1mEtjMZQOZlgPh1tjct76wlsucO-RbmQW/view?usp=sharing)
-* [Research by Pace UG students](https://docs.google.com/forms/d/e/1FAIpQLSelXNn9wL9xgDM3BTHzuFMFV5RkH48yqMV6nnrpxotE7n_hFQ/viewform)
+* [BOP 101 by Agata Poniatowski](https://github.com/PACESTEM/STEMINSTITUTE2022/blob/main/Intro%20to%20the%20Billion%20Oyster%20Project.pdf)
+* [Research by Pace UG students: Makayla Josiah, Aaron Feney, and Ellis Clay](https://docs.google.com/forms/d/e/1FAIpQLSelXNn9wL9xgDM3BTHzuFMFV5RkH48yqMV6nnrpxotE7n_hFQ/viewform)
 
 **Other material**
 
@@ -69,10 +70,10 @@
 
 * Ask a scientist: Dr. Stephen Gosnell, Assistant Professor, Department of Natural Sciences, Baruch College & Graduate Center, CUNY
 * BOP 101: Agata Poniatowski, Outreach and Engagement Manager, Billion Oyster Project
-* Panel with AppFigures - Ariel Michaeli, Co-Founder, Oz Michaeli, Co-Founder & Head of Product, Alex Quick, Head of Engineering, Joshua Vernazza, Head of Data Science
+* Panel with AppFigures: Ariel Michaeli, Co-Founder, Oz Michaeli, Co-Founder & Head of Product, Alex Quick, Head of Engineering, Joshua Vernazza, Head of Data Science
 * One Day in the Life of a Data Scientist: Tassos Sarbanes (Financial Industry)
-* Seidenberg students' panel - TBD 
-* Keynote - TBD
+* Seidenberg students' panel: Angela Boson, Vicente Gomez, Lauren DeMaio 
+* Keynote: Dr Vladislav Sandler, Co-Founder and CEO of [Hemogenyx Pharmaceuticals](https://hemogenyx.com/people/dr-vladislav-sandler-ph.d) and Research Assistant Professor at the State University of New York (SUNY) Downstate
 
 ## Data
 
