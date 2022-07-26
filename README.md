@@ -127,6 +127,10 @@
 * [Video: Explainer: What is Design Thinking?](https://www.youtube.com/watch?v=_WI3B54m6SU)
 * [Design Thinking at IDEO](https://www.ideou.com/pages/design-thinking)
 
+## Final evaluation survey
+
+[Survey](http://s.alchemer.com/s3/2021-22-CCERS-ITEST-STEM-C)
+
 ## Students' work
 
 Presentations, code, murals etc.
@@ -134,38 +138,30 @@ Presentations, code, murals etc.
 *Please note that some of the links require access.*
 
 * Team 1
-    - [MIRO]()
     - [Presentation]()
+    - [Video presentation]()
     - [Video]()
 * Team 2
-    - [MIRO]()
     - [Presentation]()
+    - [Video presentation]()
     - [Video]()
 * Team 3
-    - [MIRO]()
     - [Presentation]()
+    - [Video presentation]()
     - [Video]()
 * Team 4
-    - [MIRO]()
     - [Presentation]()
+    - [Video presentation]()
     - [Video]()
 * Team 5
-    - [MIRO]()
     - [Presentation]()
+    - [Video presentation]()
     - [Video]()
 * Team 6
-    - [MIRO]()
     - [Presentation]()
+    - [Video presentation]()
     - [Video]()
-* Team 7
-    - [MIRO]()
-    - [Presentation]()
-    - [Video]()
-* Team 8
-    - [MIRO]()
-    - [Presentation]()
-    - [Video]()
-    
+
 ## Ceremony
 
 * [Summary presentation](TBD)
