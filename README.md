@@ -63,7 +63,7 @@
 
 * Ice breaker
 * [Data Visualization](https://docs.google.com/presentation/d/1jf5dnhHe3aDcaNdfqTdr9WaW37MJqwe5J3oEfeoCzQY/edit?usp=sharing)
-* [Design Thinking](https://drive.google.com/file/d/1DXxFMXPoggqbXXGSmgenH_RP4ALcWssD/view?usp=sharing)
+* [Design Thinking](https://docs.google.com/presentation/d/1dAaYnPtRnnrxwyTqUkpTr9O53H-Bhwih/edit#slide=id.p1) and [MIRO](https://miro.com/app/board/uXjVOj8jc-I=/?share_link_id=505512780689)
 * [Storytelling](https://github.com/PACESTEM/STEMINSTITUTE2022/blob/main/STORYTELLING.pdf)
 
 ## Invited talks
