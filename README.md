@@ -146,8 +146,8 @@ Presentations, code, murals etc.
     - [Video presentation]()
     - [Video]()
 * Team 3
-    - [Presentation]()
-    - [Video presentation]()
+    - [Presentation](https://docs.google.com/presentation/d/1ZtXknaxifxwWv255PBTmJdeJ6I7IG_VNif43uaHB1uI/edit#slide=id.p)
+    - [Video presentation](https://drive.google.com/file/d/1F2qDnMXzqp141h2iBu95t2iMxgyRvyoV/view?usp=sharing)
     - [Video]()
 * Team 4
     - [Presentation](https://docs.google.com/presentation/d/1V61c5YE-iphTMOd0VE2D7DxAJRIdDAzY0MZSMg9SRE8/edit?usp=sharing)
