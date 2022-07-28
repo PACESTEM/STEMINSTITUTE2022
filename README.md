@@ -154,8 +154,8 @@ Presentations, code, murals etc.
     - [Video presentation](https://drive.google.com/file/d/1VzLYmonvsdVkxtw-TsX1B_Bvp3V99490/view?usp=sharing)
     - [Video]()
 * Team 5
-    - [Presentation]()
-    - [Video presentation]()
+    - [Presentation](https://docs.google.com/presentation/d/14vjRpxqjsR9To4HQKgHGHJAjZUp5hhkrIchk1TGWnt0/edit?usp=sharing)
+    - [Video presentation](https://drive.google.com/file/d/15P-Cbb7VQ_e915pi6O0KDGTROneXEleq/view?usp=sharing)
     - [Video]()
 * Team 6
     - [Presentation]()
