@@ -151,7 +151,7 @@ Presentations, code, murals etc.
     - [Video]()
 * Team 4
     - [Presentation]()
-    - [https://drive.google.com/file/d/1VzLYmonvsdVkxtw-TsX1B_Bvp3V99490/view?usp=sharing]()
+    - [Video presentation](https://drive.google.com/file/d/1VzLYmonvsdVkxtw-TsX1B_Bvp3V99490/view?usp=sharing)
     - [Video]()
 * Team 5
     - [Presentation]()
