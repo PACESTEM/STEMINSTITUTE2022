@@ -158,8 +158,8 @@ Presentations, code, murals etc.
     - [Video presentation](https://drive.google.com/file/d/15P-Cbb7VQ_e915pi6O0KDGTROneXEleq/view?usp=sharing)
     - [Video]()
 * Team 6
-    - [Presentation]()
-    - [Video presentation]()
+    - [Presentation](https://docs.google.com/presentation/d/1tkvxiifxDZNY7PAVIc8VAkPulxlxTKte/edit?usp=sharing&ouid=104450731155136439461&rtpof=true&sd=true)
+    - [Video presentation](https://drive.google.com/file/d/1q1mXQjK1LKtoqmD8ttB8_P1Db7_7Bw6Z/view?usp=sharing)
     - [Video]()
 
 ## Ceremony
