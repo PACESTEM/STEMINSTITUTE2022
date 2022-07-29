@@ -138,8 +138,8 @@ Presentations, code, murals etc.
 *Please note that some of the links require access.*
 
 * Team 1
-    - [Presentation]()
-    - [Video presentation]()
+    - [Presentation](https://docs.google.com/presentation/d/1HRAPtIn0ZfcKjoHQ2NuTptWRXIwMXG6tlhcIxb3Vy00/edit?usp=sharing)
+    - [Video presentation](https://drive.google.com/file/d/1PqJFGhTK6MOk_QND_MSUDv7uqFKvh1tZ/view?usp=sharing)
     - [Video]()
 * Team 2
     - [Presentation]()
