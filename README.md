@@ -139,30 +139,24 @@ Presentations, code, murals etc.
 
 * Team 1
     - [Presentation](https://docs.google.com/presentation/d/1HRAPtIn0ZfcKjoHQ2NuTptWRXIwMXG6tlhcIxb3Vy00/edit?usp=sharing)
-    - [Video presentation](https://drive.google.com/file/d/1PqJFGhTK6MOk_QND_MSUDv7uqFKvh1tZ/view?usp=sharing)
-    - [Video]()
+    - [Video](https://drive.google.com/file/d/1PqJFGhTK6MOk_QND_MSUDv7uqFKvh1tZ/view?usp=sharing)
 * Team 2
-    - [Presentation]()
-    - [Video presentation]()
-    - [Video]()
+    - [Presentation](https://docs.google.com/presentation/d/1ApY8lI7bcIHzlSJQrsxmvGMmSC-C0RJMsIQI7kDhWIs/edit?usp=sharing)
+    - [Video](https://drive.google.com/file/d/1F7xuw_YI-WY8yFMrvoNEE7jC5xxvOpZ9/view?usp=sharing)
 * Team 3
     - [Presentation](https://docs.google.com/presentation/d/1ZtXknaxifxwWv255PBTmJdeJ6I7IG_VNif43uaHB1uI/edit#slide=id.p)
-    - [Video presentation](https://drive.google.com/file/d/1F2qDnMXzqp141h2iBu95t2iMxgyRvyoV/view?usp=sharing)
-    - [Video]()
+    - [Video](https://drive.google.com/file/d/1F2qDnMXzqp141h2iBu95t2iMxgyRvyoV/view?usp=sharing)
 * Team 4
     - [Presentation](https://docs.google.com/presentation/d/1V61c5YE-iphTMOd0VE2D7DxAJRIdDAzY0MZSMg9SRE8/edit?usp=sharing)
-    - [Video presentation](https://drive.google.com/file/d/1VzLYmonvsdVkxtw-TsX1B_Bvp3V99490/view?usp=sharing)
-    - [Video]()
+    - [Video](https://drive.google.com/file/d/1VzLYmonvsdVkxtw-TsX1B_Bvp3V99490/view?usp=sharing)
 * Team 5
     - [Presentation](https://docs.google.com/presentation/d/14vjRpxqjsR9To4HQKgHGHJAjZUp5hhkrIchk1TGWnt0/edit?usp=sharing)
-    - [Video presentation](https://drive.google.com/file/d/15P-Cbb7VQ_e915pi6O0KDGTROneXEleq/view?usp=sharing)
-    - [Video]()
+    - [Video](https://drive.google.com/file/d/15P-Cbb7VQ_e915pi6O0KDGTROneXEleq/view?usp=sharing)
 * Team 6
     - [Presentation](https://docs.google.com/presentation/d/1tkvxiifxDZNY7PAVIc8VAkPulxlxTKte/edit?usp=sharing&ouid=104450731155136439461&rtpof=true&sd=true)
-    - [Video presentation](https://drive.google.com/file/d/1q1mXQjK1LKtoqmD8ttB8_P1Db7_7Bw6Z/view?usp=sharing)
-    - [Video]()
+    - [Video](https://drive.google.com/file/d/1q1mXQjK1LKtoqmD8ttB8_P1Db7_7Bw6Z/view?usp=sharing)
 
 ## Ceremony
 
-* [Summary presentation](TBD)
+* [Summary presentation](https://docs.google.com/presentation/d/1fQCP0Bh_0zERPRoRTfCyMIiRZpsHcC-7697G7R63XXo/edit?usp=sharing)
 * [Videos](TBD)
