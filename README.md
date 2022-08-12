@@ -159,4 +159,4 @@ Presentations, code, murals etc.
 ## Ceremony
 
 * [Summary presentation](https://docs.google.com/presentation/d/1fQCP0Bh_0zERPRoRTfCyMIiRZpsHcC-7697G7R63XXo/edit?usp=sharing)
-* [Videos](TBD)
+* [Videos](https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16df84aa-0fe1-4347-b787-aeee00f8fecc )
